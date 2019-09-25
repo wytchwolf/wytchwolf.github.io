@@ -177,63 +177,63 @@
 // Genetic cards	
 	var GenCards = [
 		{
-			name: "Bay",
-			img: " ",
+			name: "AA",
+			img: "cards/card_gen_bay.png",
 			id: 1,
 		},
 		{
-			name: "Black",
-			img: " ",
+			name: "EE or Ee",
+			img: "cards/card_gen_black.png",
 			id: 2
 		},
 		{
-			name: "Buckskin",
-			img: " ",
+			name: "E_A_Ccr",
+			img: "cards/card_gen_buckskin.png",
 			id: 3
 		},
 		{
-			name: "Cremello",
-			img: " ",
+			name: "eecrcr",
+			img: "cards/card_gen_cremello.png",
 			id: 4
 		}, 
 		{
-			name: "Dun",
-			img: " ",
+			name: "eeD_",
+			img: "cards/card_gen_dun.png",
 			id: 5
 		},
 		{
-			name: "Gray",
-			img: " ",
+			name: "G_",
+			img: "cards/card_gen_gray.png",
 			id: 6
 		},
 		{
-			name: "Grullo",
-			img: " ",
+			name: "E_aaD_",
+			img: "cards/card_gen_grullo.png",
 			id: 7
 		},
 		{
-			name: "Palomino",
-			img: " ",
+			name: "eeCcr",
+			img: "cards/card_gen_palomino.png",
 			id: 8
 		},
 		{
-			name: "Sorrel",
-			img: " ",
+			name: "ee",
+			img: "cards/card_gen_sorrel.png",
 			id: 9
 		},
 		{
-			name: "White",
-			img: " ",
+			name: "W_",
+			img: "cards/card_gen_white.png",
 			id: 10
 		},
 		{
-			name: "Wild Bay",
-			img: " ",
+			name: "AtAt",
+			img: "cards/card_gen_wildbay.png",
 			id: 11
 		},
 		{
-			name: "Perlino",
-			img: " ",
+			name: "E_A_crcr",
+			img: "cards/card_gen_perlino.png",
 			id: 12
 		},
 	];
